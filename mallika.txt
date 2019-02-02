@@ -1,24 +1,25 @@
-beans instances can be controlled by changing the value of------ attribute in the bean tag
+beans instances can be controlled by changing the value of---scope--- attribute in the bean tag
+
 
 
 java programming annotations are  supproted by spring container
 
 
-package that provides multipart functionality in spring
+package that provides multipart functionality in spring--->ans:org.springframework.web.multipart
 
 
 which of the folwing is used toexceute query for static sql to read the resultset with a reseultsetextrctor
 
 
-spring Integration testing jar
+spring Integration testing jar--->ans:spring-integration-test
 
 
 
-jdbc delete query syntax
+jdbc delete query syntax--->ans:update
 
 
 
-benfits of aspects programming
+benfits of aspects programming-->all of the above
 
 
 
@@ -47,12 +48,12 @@ scope of stateless bean in spring. singleton
 
 which class is connect spring with structs
 
-what is the root level package for email support
+what is the root level package for email support--->.mail
 
 structs2 and spring integration
 
 
-2TRANSACTIONAL on CLASS level applies to wht methods?
+@TRANSACTIONAL on CLASS level applies to wht methods?
 
 which annotation must be applied to service cls to mke transactional 
 
@@ -102,9 +103,23 @@ transaction isolation
 
 jdbctemplate is threadsafe or not?
 
-return type of getUrl
+return type of getUrl--->ans: public URL getUrl()extends IoException
 
 filenotfoundexception in spring
+
+Which is the default handler mapping used by dispatcher servlet??
+
+static factory method in spring declaration--->ans:Factory
+
+
+devtools supported by--->false
+
+ 
+internalResourceViewResolver maps incoming request to relevant controller true or false 
+
+
+methods available in jdbctemplate class 
+ 
 
 
 
